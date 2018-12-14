@@ -1,2 +1,4 @@
 My first line in project
 Paris is the capital of France
+text for indexed modify
+text for non-indexed modify
